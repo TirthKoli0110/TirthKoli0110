@@ -46,8 +46,8 @@ I'm learning how computers, operating systems, and networks work by building sma
 
 ## 📫 Contact
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [your LinkedIn URL]
+- 📧 Email: [tirthkoli210@gmail.com]
+- 💼 LinkedIn: [coming soon......]
 
 ---
 
