@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Tirth Koli
 
-### 💻 Computer Engineering Student | Aspiring Systems & Infrastructure Engineer
+### 💻 Computer Engineering Student |
 
 I'm learning how computers, operating systems, and networks work by building small projects. Right now I'm working on a Python calculator and getting comfortable with Linux and C++.
 
