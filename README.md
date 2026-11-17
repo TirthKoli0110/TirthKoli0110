@@ -1,69 +1,87 @@
-# Hi, I'm Tirth Koli 👋
+# Hi there 👋, I'm Tirth Koli
 
-> **Computer Engineering Student** passionate about building software, exploring Linux, and continuously learning new technologies.
+### 💻 Computer Engineering Student | Software Development • Linux • Problem Solving
 
-I enjoy understanding how software, operating systems, and computer networks work by creating projects and solving programming challenges. Every project helps me improve my technical skills and become a better developer.
+I'm a Computer Engineering student passionate about software development, Linux, and web technologies. I enjoy building projects that strengthen my programming skills while exploring how computers, operating systems, and networks work.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Currently Learning
 
-- 🐧 Learning Linux and computer networking
-- 💻 Strengthening my C++ and Python skills
-- 🌐 Building responsive web applications
-- 🧩 Improving problem-solving and DSA
+- 🐧 Linux Command Line & Networking
+- 💻 C++ Programming
+- 🐍 Python Programming
+- 🌐 Web Development
+- 🧩 Data Structures & Problem Solving
 
 ---
 
 ## 💻 Tech Stack
 
-| Languages | Web | Tools |
-|-----------|-----|-------|
-| Python | HTML5 | Git |
-| C++ | CSS3 | GitHub |
-| JavaScript | Responsive Design | Linux |
-| | | VS Code |
+### 👨‍💻 Languages & Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🌐 Personal Portfolio Website
-A responsive portfolio built with HTML, CSS, and JavaScript to showcase my projects, skills, and learning journey.
 
-**Tech:** HTML • CSS • JavaScript
+A responsive portfolio website built using **HTML, CSS, and JavaScript** to showcase my skills, projects, and learning journey.
 
----
+**Tech Stack:** HTML • CSS • JavaScript
 
-### 📚 Web Technology Notes
-An interactive study website with a clean interface, organized notes, dark mode, and responsive design.
-
-**Tech:** HTML • CSS • JavaScript
+🔗 Repository: https://github.com/TirthKoli0110/YOUR-PORTFOLIO-REPOSITORY
 
 ---
 
-## 🎯 Current Goals
+### 📖 Web Technology Notes
 
-- Build a strong foundation in software engineering
+An interactive study website featuring organized Web Technology notes with a clean interface, responsive design, and modern user experience.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+🔗 Repository: https://github.com/TirthKoli0110/YOUR-WEBTECH-REPOSITORY
+
+---
+
+## 🎯 Goals
+
+- Build strong programming fundamentals
 - Master Data Structures & Algorithms
-- Learn Linux and networking in depth
-- Create high-quality real-world projects
-- Contribute to open-source projects
+- Learn Linux and Computer Networking
+- Build real-world software projects
+- Contribute to Open Source
+- Continuously improve as a Software Developer
 
 ---
 
-## 📬 Connect With Me
+## 📈 GitHub Stats
 
-📧 **Email:** tirthkoli210@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-profile
-
-🐙 **GitHub:** https://github.com/TirthKoli0110
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TirthKoli0110&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirthKoli0110&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 📖 A Simple Philosophy
+## 📫 Connect With Me
+
+- 📧 **Email:** tirthkoli210@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-URL
+- 🐙 **GitHub:** https://github.com/TirthKoli0110
+
+---
 
 > **"Learn. Build. Improve. Repeat."**
 
-Thanks for visiting my profile! ⭐
+⭐ Thank you for visiting my profile!
