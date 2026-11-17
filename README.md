@@ -2,7 +2,7 @@
 
 ### 💻 Computer Engineering Student |
 
-I'm learning how computers, operating systems, and networks work by building small projects. Right now I'm working on a Python calculator and getting comfortable with Linux and C++.
+I'm learning how computers, operating systems, and networks work by building projects and continuously improving my programming skills. I'm currently focusing on Linux, C++, Python, and web development while building a strong software engineering foundation.
 
 ---
 
@@ -20,9 +20,10 @@ I'm learning how computers, operating systems, and networks work by building sma
 
 ## 🚀 Currently Learning
 
-- Linux command line and networking basics
-- C++ and Python fundamentals
-- Problem solving and data structures
+- Linux command line and networking
+- C++ and Python programming
+- Data Structures & Problem Solving
+- Web Development
 
 ---
 
@@ -30,24 +31,25 @@ I'm learning how computers, operating systems, and networks work by building sma
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Python Calculator](https://github.com/TirthKoli0110/[repo-name]) | Command-line calculator in Python | 🚧 In progress |
-| Personal Portfolio Website | Personal site built with HTML and CSS | 🔜 Coming soon |
+| **Personal Portfolio Website** | Responsive personal portfolio built using HTML, CSS, and JavaScript to showcase my skills and projects. | ✅ Completed |
+| **Web Technology Notes Website** | Interactive notes website covering Web Technology concepts with a modern UI, theme switcher, and organized study material. | ✅ Completed |
 
 ---
 
 ## 🎯 Goals
 
 - Build strong programming fundamentals
-- Create real-world projects and document them well
-- Learn Linux and networking in depth
+- Create high-quality real-world projects
+- Learn Linux and Networking in depth
+- Master Data Structures and Algorithms
 - Build a professional developer portfolio
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: [tirthkoli210@gmail.com]
-- 💼 LinkedIn: [coming soon......]
+- 📧 Email: tirthkoli210@gmail.com
+- 💼 LinkedIn: Coming Soon
 
 ---
 
