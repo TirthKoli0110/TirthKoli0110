@@ -1,56 +1,83 @@
 # Hi there 👋, I'm Tirth Koli
 
-### 💻 Computer Engineering Student |
+### 💻 Computer Engineering Student
 
-I'm learning how computers, operating systems, and networks work by building projects and continuously improving my programming skills. I'm currently focusing on Linux, C++, Python, and web development while building a strong software engineering foundation.
+I'm a Computer Engineering student passionate about software development, Linux, networking, and problem solving. I enjoy building projects that strengthen my programming skills and help me understand how computer systems work.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Engineering Student
+- 💻 Currently learning C++, Python, Linux, and Networking
+- 🌱 Improving my problem-solving and programming skills
+- 🚀 Building projects to strengthen my development experience
+- 🎯 Goal: Become a skilled Software Engineer and build impactful real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🚀 Currently Learning
+## 📚 Currently Learning
 
-- Linux command line and networking
-- C++ and Python programming
-- Data Structures & Problem Solving
+- Linux Command Line
+- C++ Programming
+- Python Programming
+- Data Structures & Algorithms
+- Computer Networks
+- Git & GitHub
 - Web Development
 
 ---
 
-## 📁 Projects
+## 🌟 Featured Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Personal Portfolio Website** | Responsive personal portfolio built using HTML, CSS, and JavaScript to showcase my skills and projects. | ✅ Completed |
-| **Web Technology Notes Website** | Interactive notes website covering Web Technology concepts with a modern UI, theme switcher, and organized study material. | ✅ Completed |
+### 🌐 Personal Portfolio Website
+A responsive portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and learning journey.
+
+### 📖 Web Technology Notes Website
+A modern notes website covering Web Technology concepts with an interactive interface, dark mode, animations, and organized study material.
 
 ---
 
 ## 🎯 Goals
 
 - Build strong programming fundamentals
-- Create high-quality real-world projects
+- Master Data Structures & Algorithms
 - Learn Linux and Networking in depth
-- Master Data Structures and Algorithms
-- Build a professional developer portfolio
+- Build real-world software projects
+- Contribute to Open Source
+- Become a skilled Software Engineer
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
 
-- 📧 Email: tirthkoli210@gmail.com
-- 💼 LinkedIn: Tirth Koli
+![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirthKoli0110&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TirthKoli0110&layout=compact&theme=tokyonight)
 
 ---
 
-⭐ Thanks for stopping by!
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirthkoli210@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Koli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+
+---
+
+⭐ *"Every expert was once a beginner who refused to quit."*
+
+Thanks for visiting my profile! 😊
