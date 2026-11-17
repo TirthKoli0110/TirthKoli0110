@@ -1,53 +1,93 @@
 # Hi there 👋, I'm Tirth Koli
 
-### 💻 Computer Engineering Student
+<h3 align="center">Computer Engineering Student | Passionate about Software Development, Linux & Problem Solving</h3>
 
-I'm a Computer Engineering student passionate about software development, Linux, networking, and problem solving. I enjoy building projects that strengthen my programming skills and help me understand how computer systems work.
+<p align="center">
+  <a href="https://github.com/TirthKoli0110">
+    <img src="https://komarev.com/ghpvc/?username=TirthKoli0110&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+I'm a Computer Engineering student who enjoys learning by building projects and exploring how computers work—from programming and web development to Linux and networking.
+
+I'm continuously improving my programming skills while creating practical projects that strengthen my understanding of software engineering.
 
 - 🎓 Computer Engineering Student
-- 💻 Currently learning C++, Python, Linux, and Networking
-- 🌱 Improving my problem-solving and programming skills
-- 🚀 Building projects to strengthen my development experience
-- 🎯 Goal: Become a skilled Software Engineer and build impactful real-world projects
+- 💻 Learning C++, Python, Linux & Web Development
+- 🌱 Exploring Data Structures & Computer Networks
+- 🚀 Building projects to improve my development skills
+- 📍 India
 
 ---
 
 ## 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css" />
+</p>
+
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Linux Command Line
 - C++ Programming
 - Python Programming
-- Data Structures & Algorithms
+- Linux Command Line
 - Computer Networks
+- Data Structures & Algorithms
 - Git & GitHub
-- Web Development
+- Responsive Web Development
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🌐 Personal Portfolio Website
-A responsive portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and learning journey.
+A responsive portfolio website showcasing my skills, projects, and learning journey.
+
+**Tech Used:** HTML • CSS • JavaScript
+
+🔗 Repository: https://github.com/TirthKoli0110/REPOSITORY_NAME
+
+---
 
 ### 📖 Web Technology Notes Website
-A modern notes website covering Web Technology concepts with an interactive interface, dark mode, animations, and organized study material.
+
+A modern educational website containing organized Web Technology notes with an interactive interface and clean user experience.
+
+**Features**
+- Dark/Light Mode
+- Organized Notes
+- Responsive Design
+- Modern UI
+
+**Tech Used:** HTML • CSS • JavaScript
+
+🔗 Repository: https://github.com/TirthKoli0110/REPOSITORY_NAME
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TirthKoli0110&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TirthKoli0110&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=TirthKoli0110&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -56,28 +96,37 @@ A modern notes website covering Web Technology concepts with an interactive inte
 - Build strong programming fundamentals
 - Master Data Structures & Algorithms
 - Learn Linux and Networking in depth
-- Build real-world software projects
+- Develop real-world software projects
 - Contribute to Open Source
-- Become a skilled Software Engineer
+- Continuously improve as a Software Engineer
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Interests
 
-![Tirth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TirthKoli0110&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TirthKoli0110&layout=compact&theme=tokyonight)
+- 💻 Software Development
+- 🐧 Linux
+- 🌐 Web Development
+- 🧩 Problem Solving
+- 🌍 Computer Networks
+- 📚 Continuous Learning
 
 ---
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirthkoli210@gmail.com)
+<p>
+<a href="mailto:tirthkoli210@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirth%20Koli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
+<img src="https://img.shields.io/badge/LinkedIn-Tirth%20Koli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-⭐ *"Every expert was once a beginner who refused to quit."*
+> *"The best way to learn is by building."*
 
-Thanks for visiting my profile! 😊
+⭐ If you like my projects, feel free to explore my repositories and connect with me!
