@@ -49,7 +49,7 @@ I'm learning how computers, operating systems, and networks work by building pro
 ## 📫 Contact
 
 - 📧 Email: tirthkoli210@gmail.com
-- 💼 LinkedIn: Coming Soon
+- 💼 LinkedIn: Tirth Koli
 
 ---
 
