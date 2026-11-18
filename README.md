@@ -50,7 +50,7 @@ An interactive study website featuring organized Web Technology notes with a cle
 
 **Tech Stack:** HTML • CSS • JavaScript
 
-🔗 Repository: https://github.com/TirthKoli0110/YOUR-WEBTECH-REPOSITORY
+🔗 Repository: https://github.com/TirthKoli0110/Web-Technology-Notes
 
 ---
 
