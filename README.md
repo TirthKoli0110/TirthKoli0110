@@ -40,7 +40,7 @@ A responsive portfolio website built using **HTML, CSS, and JavaScript** to show
 
 **Tech Stack:** HTML • CSS • JavaScript
 
-🔗 Repository: https://github.com/TirthKoli0110/YOUR-PORTFOLIO-REPOSITORY
+🔗 Repository: https://github.com/TirthKoli0110/My-Portfolio
 
 ---
 
