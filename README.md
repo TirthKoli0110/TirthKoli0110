@@ -18,12 +18,12 @@ I'm a Computer Engineering student passionate about software development, Linux,
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student
 - 💻 Interested in Software Development and System Technologies
 - 🐧 Exploring Linux, Networking, and Operating Systems
-- 🌐 Building Web Development projects
+- 🌐 Building Web Development Projects
 - ⚽ Football enthusiast and creator of custom football projects
 - 💪 Focused on fitness, discipline, and self-improvement
 - 🤖 Working towards building my personal AI assistant **James AI**
@@ -61,32 +61,27 @@ I'm a Computer Engineering student passionate about software development, Linux,
 
 ## 🌐 Personal Portfolio Website
 
-A responsive portfolio website created to showcase my skills, projects, and learning journey.
+A responsive portfolio website built to showcase my skills, projects, and learning journey.
 
 **Tech Stack:**
-```
-HTML • CSS • JavaScript
-```
+
+`HTML • CSS • JavaScript`
 
 🔗 Repository:
 https://github.com/TirthKoli0110/My-Portfolio
-
 
 ---
 
 ## 📖 Web Technology Notes
 
-An interactive learning website containing organized Web Technology notes with a clean interface and responsive design.
+An interactive study website featuring organized Web Technology notes with a clean interface, responsive design, and modern user experience.
 
 **Tech Stack:**
 
-```
-HTML • CSS • JavaScript
-```
+`HTML • CSS • JavaScript`
 
 🔗 Repository:
 https://github.com/TirthKoli0110/Web-Technology-Notes
-
 
 ---
 
@@ -94,33 +89,33 @@ https://github.com/TirthKoli0110/Web-Technology-Notes
 
 A personal AI assistant project focused on:
 
-- Voice interaction
-- Automation
-- Memory systems
-- Personal productivity
-- Smart assistance
+- 🎙️ Voice interaction
+- ⚙️ Automation
+- 🧠 Memory systems
+- 📌 Personal productivity
+- 🤖 Smart assistance
 
 ---
 
 # 🔥 Current Focus
 
 - Strengthening programming fundamentals
-- Learning Data Structures & Algorithms
-- Understanding Linux and networking
-- Building real-world projects
-- Improving problem-solving ability
+- Mastering Data Structures & Algorithms
+- Learning Linux and Computer Networking
+- Building real-world software projects
 - Exploring AI development
+- Improving problem-solving skills
 
 ---
 
 # 🎯 Goals
 
-- Become a strong software developer
-- Master DSA
-- Build useful applications
-- Contribute to Open Source
-- Create AI-based projects
-- Continuously improve myself
+- 🚀 Become a strong software developer
+- 🧩 Master DSA
+- 🌎 Build useful applications
+- 🌱 Contribute to Open Source
+- 🤖 Create AI-based projects
+- 📈 Continuously improve myself
 
 ---
 
@@ -138,9 +133,9 @@ A personal AI assistant project focused on:
 
 # 🏆 Personal Philosophy
 
-> "Learn. Build. Improve. Repeat."
+> **"Learn. Build. Improve. Repeat."**
 
-> "Discipline builds freedom."
+> **"Discipline builds freedom."**
 
 ---
 
